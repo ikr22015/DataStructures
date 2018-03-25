@@ -14,4 +14,7 @@ Type of linked list:
     === A doubly linked list.
         That has two references, one to the next node and another to previous node.
 
+Linked list data fetching is slower than Array. But you can extend you element very easily
+but on array, you can not extend or expand element. Because array's elements are been fixed.
+
 
